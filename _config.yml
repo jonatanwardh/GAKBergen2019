@@ -1,5 +1,4 @@
-title: Example project
-description: Project description in here.
-theme: jekyll-theme-minimal
+title: GAK turné till Bergen 2019!
+theme: jekyll-theme-cayman
 future: true
-baseurl: "/gh-pages-example"
+baseurl: "/GAKBergen2019"

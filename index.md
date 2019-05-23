@@ -3,14 +3,8 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Meny
 
-- [About the project](about)
-- [Publications](publications)
-- [Team](team)
+- [Info](info)
+- [Schema](schema)
 
-# News
-
-- Some event
-- Another exciting event
-- More news
